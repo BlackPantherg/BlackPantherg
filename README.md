@@ -2,4 +2,3 @@
 - 👀 I’m interested in Coding stuff
 - 🌱 I’m currently learning Java and Python 
 - 💞️ I’m looking to collaborate on none :)
-- 📫 How to reach me - Discord - Tony Stark#5882
